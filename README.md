@@ -1,6 +1,8 @@
 # Movie_Analysis
 
-A predictive analysis of the popularity of independent movies using Python, Pandas, SQL and the ELT pipeline
+Data cleaning of a file to be used in a hackthon involving the predictive analysis of the popularity of independent movies.  This work was done in Python, Pandas, SQL and the ELT pipeline.
+
+This is an example showcasing my data cleaning skills.  This was a messy file that was to be used in a hackathon run by a small company similar to NetFlix.  The data was extremely messy and needed to be cleaned for the users.  This is process that I followed in order to do just that.
 
 ## Background
 
@@ -8,7 +10,7 @@ Amazing Prime is a video streaming service similar to NetFlix that has just laun
 
 ## Problems
 
-We used the ETL pipeline in order to transform the data into a more usable set.  There were many inconsistencies and irregularities in the data.  For instance, many of the columns were of the wrong data type, there were multiple columns providing the same information i.e. ìDirected byî as well as ìDirectorî, numerical types that were expressed as strings i.e. ì4 millionî as opposed to 4000000, along with many other problems.
+We used the ETL pipeline in order to transform the data into a more usable set.  There were many inconsistencies and irregularities in the data.  For instance, many of the columns were of the wrong data type, there were multiple columns providing the same information i.e. ‚ÄúDirected by‚Äù as well as ‚ÄúDirector‚Äù, numerical types that were expressed as strings i.e. ‚Äú4 million‚Äù as opposed to 4000000, along with many other problems.
 
 ## Process
 
