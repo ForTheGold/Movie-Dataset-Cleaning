@@ -19,3 +19,15 @@ I went through the data to find as many inconsistencies as I could and then appl
 ## Results
 
 After having gone through the process of cleaning the data, we are now ready with the final data set that has been cleaned and uploaded into the database.
+
+## Technologies
+
+* Pandas
+* Numpy
+* SQLAlchemy
+* RegEx
+* psycopg2
+* Python
+* JSON
+* ETL
+* Data Cleaning
